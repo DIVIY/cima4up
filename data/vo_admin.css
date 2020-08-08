@@ -1,0 +1,16 @@
+h2{
+    text-align: right;
+    background: #141414;
+    padding: 10px;
+    width: 96%;
+    color: #fff;
+    border-radius: 2px;
+}
+input[type="text"]{
+    height: 40px;
+    width: 70%;
+}
+textarea {
+    direction: ltr;
+    width: 80%;
+}
